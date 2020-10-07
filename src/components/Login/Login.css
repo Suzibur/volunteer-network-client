@@ -1,0 +1,31 @@
+._logo{
+    display: block;
+    margin: 60px auto;
+    width:202px;
+}
+.login-box{
+    padding: 5%;
+    border: 2px solid gray;
+    text-align: center;
+}
+.login-button{
+    margin-top: 20px;
+    padding: 5px;
+    float: left;
+    border: 1px solid gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.google-icon{
+    position: left;
+    width: 30px;
+}
+.login-button p{
+    display: inline;
+    font-weight: bold;
+}
+small{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}

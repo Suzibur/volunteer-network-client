@@ -1,0 +1,19 @@
+.register-box{
+    margin-top: 20px;
+    padding: 2% 3% ;
+    border: 2px solid gray;
+    background-color: rgb(238, 238, 238);
+}
+.input{
+    margin: 20px 0;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid gray ;
+    font-weight: bold;
+    color: black;
+}
+.input:focus{
+    box-shadow: none;
+    outline: none;
+    background: transparent;
+}

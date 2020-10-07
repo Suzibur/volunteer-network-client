@@ -1,0 +1,21 @@
+.card{
+    padding:10px 0;
+    margin: 20px 0px;
+    border: none;
+}
+.card-footer{
+    padding: 5px;
+    height: 80px;
+    overflow: hidden;
+    margin-top: -50px;
+    text-align: center;
+}
+.link{
+    margin: auto 0;
+    font-size: 20px;
+    color: white;
+}
+.link:hover{
+    text-decoration: none;
+    color: white;
+}

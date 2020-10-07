@@ -1,0 +1,21 @@
+.logo{
+    width:202px;
+}
+.menu{
+    margin-right: 20px;
+    color: black !important;
+    font-weight: bold;
+}
+.menu:hover{
+    text-decoration: none;
+}
+.button{
+    margin-right: 10px;
+}
+.button-text{
+    color:white;
+}
+.button-text:hover{
+    color: white;
+    text-decoration: none;
+}
