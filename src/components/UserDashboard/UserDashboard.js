@@ -19,7 +19,7 @@ const UserDashboard = () => {
     return (
         <Container>
             <Header></Header>
-            <Row className="d-flex justify-content-around">
+            <Row className="d-flex justify-content-between">
                 {
                     userActivity.map( data =>  <UserActivity data={data}></UserActivity>)
                 }

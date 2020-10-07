@@ -24,7 +24,7 @@ const Header = () => {
                     </Nav>
                     {loginUser.loggedIn ?
                         <Button className="button" variant="primary">
-                            <Link className="button-text" to='/userDashboard'>Logout</Link>
+                            <a className="button-text" href="/">Logout</a>
                         </Button>
                         :
                         <Button className="button" variant="primary">
